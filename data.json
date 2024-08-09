@@ -1,14 +1,16 @@
 [
-    {
-        "url": "https://www.g2a.com/guild-wars-2-janthir-wilds-pc-arenanet-key-global-i10000506549002",
-        "minExpectedDiscount": 65
-    },
-    {
-        "url": "https://www.g2a.com/guild-wars-2-janthir-wilds-pc-arenanet-key-global-i10000506549002",
-        "minExpectedDiscount": 65
-    },
-    {
-        "url": "https://www.g2a.com/guild-wars-2-janthir-wilds-pc-arenanet-key-global-i10000506549002",
-        "minExpectedDiscount": 65
-    }
+  {
+    "url": "https://rozetka.com.ua/chernigivske-4820034925461/p362480604/",
+    "minExpectedDiscount": 65,
+    "className": "class",
+    "classValue": "product-price__big",
+    "name": "Чернігівське Титан 8% 1л по 12 шт"
+  },
+  {
+    "url": "https://rozetka.com.ua/sony_dualsense_for_ps_5_white/p223099897/",
+    "minExpectedDiscount": 65,
+    "className": "class",
+    "classValue": "product-price__big",
+    "name": "PlayStation 5 Dualsense White"
+  }
 ]
